@@ -1,0 +1,321 @@
+Planificación: https://drive.google.com/file/d/1APTIsTojlPtnIzdyW0mfFu7DRl8pnmxV/view
+Programa Sinoptico: https://drive.google.com/file/d/1INuei_c0KDnf2gT9sLB61slns-Uh7wig/view
+Física Universitaria Volumen 2 Zemansky: https://drive.google.com/file/d/1-vk1UPErO1AxmBDhMt9W-Pn5AFEv3cIc/view?usp=sharing
+
+- Parcial 1
+Lección 1: Carga y Materia https://drive.google.com/file/d/1Z_yMuhQLyIlp6CY70ONcR68GqkeCk3Il/view
+Vídeo: Carga y Materia https://drive.google.com/file/d/1uF8u_Yid-oJmgUimBHT4pkxCVoBGl2BF/view
+
+Electromagnetismo. Carga y Materia:
+https://youtu.be/8Zv53g7SKqQ
+https://youtu.be/rEOvs3fSrTc
+https://youtu.be/cFaf1_P2Y8c
+
+Simulación de Electrostática
+https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html?locale=es
+https://youtu.be/1Jagn4LHb0g
+https://youtu.be/v6qJQT8udj0
+
+Lección 2: Ley de Coulomb https://drive.google.com/file/d/1hGyW0kRCWCy7WWUC4gxiQJcU6z_PEaxy/view?usp=sharing
+Ley de Coulomb: Teoría, ejercicios resueltos y propuestos
+https://campuvirtual.com/pluginfile.php/97497/mod_folder/content/0/Ejercicio%20resuelto%20rect%C3%A1ngulo%20Ley%20de%20Coulomb.pdf?forcedownload=1
+https://campuvirtual.com/pluginfile.php/97497/mod_folder/content/0/Ejercicios%20propuestos%20Ley%20de%20Coulomb.pdf?forcedownload=1
+https://campuvirtual.com/pluginfile.php/97497/mod_folder/content/0/Ejercicios%20resueltos%20Ley%20de%20Coulomb.pdf?forcedownload=1
+
+Electrostática: Ley de Coulomb - Ejercicios Resueltos
+https://youtu.be/EDC6vISPoxQ
+https://youtu.be/8FXllt2Z9Tk
+https://youtu.be/Ugj05-iVRVY
+https://youtu.be/EhCX3JR6mHQ
+
+Vídeo Clase Ley de Coulomb https://drive.google.com/file/d/1bYU_dJExrkgEkBg7S5aMGst5-vjsytS6/view
+
+Simulador - Vídeos tutoriales simulaciones Ley de Coulomb
+https://youtu.be/xFEUPSvYxLs
+https://youtu.be/pXSlpS2kWhY
+https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_all.html?locale=es
+
+Lección 3: Intensidad de Campo Eléctrico-Distribución discreta cargas. https://drive.google.com/file/d/1V1H3GBUC8n20piueEbKC20LgqIer5NII/view
+Lección 4: Campo eléctrico distribuciones continuas cargas. https://drive.google.com/file/d/1LW7odaKEyromoBL5ZQ9MCJ6HkNhhhQvo/view
+Lección 5: Casos campo Eléctrico distribución continua de cargas. https://drive.google.com/file/d/1NGUZGVfP58Ljh9fMV-_EiuUh976hsACN/view
+
+Vídeo 2:  Intensidad del Campo Eléctrico. https://youtu.be/nn0nRU0-X5A
+Vídeo 3: Campo Eléctrico. Distribuciones Discretas y Continuas de Carga. https://youtu.be/EIXooch5s8Q
+Vídeo 4: Campo Eléctrico. Distribuciones continuas de Lineas de Carga, aros, discos. Lineas de fuerza. https://youtu.be/MuqbGLnT6FE
+
+Ejercicios distribución discreta de cargas.
+https://youtu.be/vnhPeIK0E6Q
+
+Ejercicios distribución continua de cargas.
+https://youtu.be/Flg0eT1amdo
+https://youtu.be/eB1AACNJHXc
+https://youtu.be/duuLYzcnjqE
+
+Ejercicios resueltos y propuestos Campo Eléctrico
+https://campuvirtual.com/pluginfile.php/97531/mod_folder/content/0/Ejercicios%20propuestos%20campo%20el%C3%A9ctrico%20cargas%20discretas.pdf?forcedownload=1
+https://campuvirtual.com/pluginfile.php/97531/mod_folder/content/0/Ejercicios%20resueltos%20campo%20el%C3%A9ctrico%20distribuciones%20continuas%20de%20cargas..pdf?forcedownload=1
+https://campuvirtual.com/pluginfile.php/97531/mod_folder/content/0/Ejercicios%20resueltos%20Campo%20El%C3%A9ctrico.%20.pdf?forcedownload=1
+
+Campo Eléctrico de distribución discreta de cargas.
+https://youtu.be/y_XHFkei21Q
+
+Campo Eléctrico de distribución continua de cargas.
+https://youtu.be/k2dXe2AvoYs
+https://youtu.be/eB1AACNJHXc
+https://youtu.be/vAZ8SakEDNI
+
+Simulador - Vídeos tutoriales Simulaciones Campo Eléctrico.
+https://youtu.be/uEzgTscaAyw
+https://youtu.be/G5cksqMFv3E
+https://youtu.be/MNuSYkzdAmQ
+https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_all.html?locale=es
+
+Lección 6: Ley de Gauss https://drive.google.com/file/d/1iV2B2dQeoXif-x-Ja1sbAjKs5QxcZ_rF/view?usp=sharing
+
+Ejercicios Resueltos Flujo Eléctrico - Ley de Gauss. https://drive.google.com/file/d/1FuZ2cud0kEcbHslzDGroZQN1GNwrFkhp/view?usp=sharing
+
+Video: Ley de Gauss https://drive.google.com/file/d/1PYK2HJ1rD8rgCY29rztoGM7y8Shrqxgt/view?usp=sharing
+
+¿Para qué sirve la Ley de Gauss?
+https://youtu.be/4gBQqYFMGsE
+https://youtu.be/3aWFJdqM_Rw
+https://youtu.be/3XtkpSWRv60
+
+Aplicaciones de la Ley de Gauss (Casos distribución de carga uniforme y no uniforme)
+
+Casos con distribución uniforme (densidad de carga uniforme)
+Caso 1: Campo eléctrico generado sobre una superficie conductora Esférica.
+https://youtu.be/sSfs2xeNWxs
+Caso 2: Campo eléctrico generado por un hilo infinito de carga. 
+https://youtu.be/3xxQiUPAsrE
+Caso 3: Campo eléctrico generado por un cascarón esférico metálico. 
+https://youtu.be/wy_V35cWPxQ
+Caso 4: Campo eléctrico generado por un cilindro macizo y un cascaron metálico concéntrico.  
+https://youtu.be/X27VqqJ6Dwo
+
+Casos con distribución de carga no uniforme (densidad de Carga No uniforme) 
+https://youtu.be/Xpjo_JNzaZ0
+
+Lección 7: Potencial - Diferencial de Potencial eléctrico https://drive.google.com/file/d/1a0mmpJBWuVzGRKHstCb4GXaBiAikfGio/view?usp=sharing
+
+Potencial Eléctrico.
+Definición de Diferencia de Potencial Eléctrico - Potencial Eléctrico.
+https://youtu.be/9r6LYyUM40k
+Caso 1: Potencial eléctrico de una esfera cargada.
+https://youtu.be/8z562E_G3Xw
+Caso 2: Potencial eléctrico en un triangulo.
+https://youtu.be/e1yG8lYH6RM
+Caso 3: Potencial eléctrico en el centro de un cuadrado.
+https://youtu.be/9rR9zlfgmRI
+
+Ejercicio Diferencia de Potencial
+https://youtu.be/PnX7qDEyGmM
+https://youtu.be/jAEJtBbifRQ
+
+Energía Potencial Eléctrica y Trabajo.
+https://youtu.be/nGY23qAhEzc
+
+Video: potencial eléctrico https://drive.google.com/file/d/1Im38129vy2Gf41U3cHFqLHkls9f39isN/view
+
+Video: Diferencia de Potencial electrico https://drive.google.com/file/d/1qI9YvEUtoGrKIeLqxDUGGv-PC38X4w_S/view?usp=sharing
+
+¿Para que sirve el potencial eléctrico, diferencia de potencial eléctrica y Energía Potencial eléctrica?
+https://youtu.be/kuFtDaplfzU
+
+Energía Potencial Eléctrica.
+https://youtu.be/QAU1hMOZBYQ
+
+Modelo de Examen de semestres anteriores
+https://drive.google.com/file/d/1ZhQbLwIBuspientQzeMD7bIgZuWl1pUE/view
+
+- Parcial 2
+Lección 1: Condensadores y dieléctricos
+https://drive.google.com/file/d/1ov8NtUSjJHQoSpQ4PHzMTkJk67vvuFmL/view?usp=sharing
+
+Ejercicios Resueltos y Propuestos de Condensadores
+https://campuvirtual.com/pluginfile.php/103657/mod_folder/content/0/Ejercicios%20propuestos%20condensadores%20y%20diel%C3%A9ctricos.%20.pdf?forcedownload=1
+https://campuvirtual.com/pluginfile.php/103657/mod_folder/content/0/Ejercicios%20resueltos%20de%20Condensadores%20y%20diel%C3%A9ctricos.%20.pdf?forcedownload=1
+
+Video: Condensadores y dielectricos
+https://drive.google.com/file/d/1d-xJU6-fF-6FxKJY8UQcBi6kWsxwnxGK/view?usp=sharing
+
+Condensadores - Casos y Ejercicios Resueltos.
+https://www.youtube.com/watch?v=kIqJrpVZZeE
+https://www.youtube.com/watch?v=By2dl7sgGb4
+https://www.youtube.com/watch?v=L1HM80DjTB4
+https://www.youtube.com/watch?v=TcTiqG4EWKc
+https://www.youtube.com/watch?v=w8Y7QRFen6g
+
+Ejercicio Asociación de Condensadores
+https://drive.google.com/file/d/1e3CekRgZ-VkmFGzjtq4r9b9DIMAxyy43/view?usp=sharing
+
+Simulación - Vídeos tutoriales simulación de Condensadores y Dieléctricos.
+https://www.youtube.com/watch?v=YnSb52R2u-M
+https://phet.colorado.edu/en/simulations/capacitor-lab-basics
+https://www.youtube.com/watch?v=hKTgMaNlt9E
+https://drive.google.com/file/d/11Ux1obMpeHdyXFjffACtMtIASaG1_VSm/view?usp=sharing
+
+Lección 2: Corriente y Resistencia
+https://drive.google.com/file/d/10vnJH77IK1xImp7IKSi7QMPCGMz-QwXT/view?usp=sharing
+
+Intensidad de Corriente eléctrica y Resistencia.
+https://www.youtube.com/watch?v=YWrxPTsWioA
+https://www.youtube.com/watch?v=WDBKdKZ2gBY
+https://www.youtube.com/watch?v=voqABwjeJdY
+https://www.youtube.com/watch?v=UKt19nQNrlg
+
+Video: Corriente y Resistencia
+https://drive.google.com/file/d/1eDsNB2kk937OQtw9PpauVg9PSA6t3TXE/view?usp=sharing
+
+Ejercicios Corriente eléctrica y Resistencia
+https://www.youtube.com/watch?v=QzYGwXJEB7Y
+https://www.youtube.com/watch?v=_C1zZI1bg2M
+https://www.youtube.com/watch?v=1nzroCSrPQI
+https://www.youtube.com/watch?v=S9sWd-d5ag4
+
+Ejercicios Asociación de Resistencias
+https://www.youtube.com/watch?v=bsP-pvARCgI
+https://www.youtube.com/watch?v=XvS6VmgWVzA
+https://www.youtube.com/watch?v=98jjlrMfcVw
+
+Ejercicio Asociación de Resistencias
+https://drive.google.com/file/d/1utiXGZMy_2b1T_6Pwh1Siqnlm-azuEly/view?usp=sharing
+
+Lección 3: Circuitos de Corriente Continua - Reglas de Kirchhoff
+https://drive.google.com/file/d/1SO-hiUM5bBV5KKEctDQudv-fHMr1uagK/view?usp=sharing
+
+Aplicación de las Reglas de Kirchhoff
+https://www.youtube.com/watch?v=PzihaOu7WCA
+https://www.youtube.com/watch?v=Ni37_i656RI
+https://www.youtube.com/watch?v=Szv7Z8dEneI
+
+Ejercicios de Aplicación de las Reglas de Kirchhoff
+https://www.youtube.com/watch?v=JyuOOCHZ94Q
+https://www.youtube.com/watch?v=QAo-gb4sGKk
+https://www.youtube.com/watch?v=wiYKrBZoDm4
+
+Video: Circuitos de Corriente Continua - Reglas de Kirchhoff
+https://drive.google.com/file/d/1anPm2gFaNJTt49xNd498Ilw3aKLXAS67/view?usp=sharing
+
+Simulación - Vídeos tutoriales simulación de Corriente y Resistencia - Circuitos de Corriente Continua DC.
+https://www.youtube.com/watch?v=wc-1qGDiqVU
+https://www.youtube.com/watch?v=Y9ucxuwG9zc
+https://phet.colorado.edu/es/simulations/circuit-construction
+
+Lección 4: Circuito RC Serie - Carga y descarga de un condensador
+https://drive.google.com/file/d/1b9BbeK2vL1rftdJLkQCZlVbe4LDJ1Bck/view?usp=sharing
+
+Procesos de Carga y Descarga de un Condensador
+https://www.youtube.com/watch?v=S5vWn6VaoqY
+https://www.youtube.com/watch?v=Lyv_FcB7q0E
+
+Ejercicio de Circuito RC Carga y Descarga de un condensador
+https://www.youtube.com/watch?v=HpyQMkJHApw
+https://www.youtube.com/watch?v=g7d8BmUy8ww
+https://www.youtube.com/watch?v=m1IVeoWxR2Y
+
+- Parcial 3
+
+Lección 1: Campo Magnético, Fuerza Magnética
+https://drive.google.com/file/d/1LbDmIm-_Eq1OkZkqCXiyIS01tcsjrIjI/view
+
+Ejercicios Resueltos Campo Magnético
+https://campuvirtual.com/mod/resource/view.php?id=43238
+
+Campo magnético, fuerza magnética
+https://www.youtube.com/watch?v=Sv1e2frHeeA
+https://www.youtube.com/watch?v=vbnIwvwbR_w
+https://www.youtube.com/watch?v=jeXvgTVKWng
+
+Ejercicios Campo magnético, Fuerza Magnética
+https://www.youtube.com/watch?v=Ys_OnhvJTbw
+https://www.youtube.com/watch?v=uF_Ohj9LaFY
+https://www.youtube.com/watch?v=T8bVqqZlk9c
+https://www.youtube.com/watch?v=6LRnrEi4u4Q
+
+Vídeo: Campo magnético
+https://drive.google.com/file/d/1F3XORgfd0Whx5-9zJRknO7I062kKjUGh/view?usp=sharing
+
+Vídeo: Fuerza magnética
+https://drive.google.com/file/d/1f65IUSIL9kACF7_mNfYiIXtYSdJvPTOw/view?usp=sharing
+
+Lección 2: Fuentes del Campo Magnético (Ley de Biot Savart - Ley de Ampere)
+https://drive.google.com/file/d/1ghFKKad1Spq7N-_aLt8lQ6FFhhb7hDUf/view?usp=sharing
+
+Ejercicios resueltos aplicación Ley de Biot-Savart
+https://campuvirtual.com/pluginfile.php/92658/mod_resource/content/1/Ejercicios%20resueltos%20Ley%20de%20Biot%20-%20Savart..pdf
+
+Ejercicios Aplicación Ley de Biot - Savart
+https://www.youtube.com/watch?v=MtHTeWdVKiw
+https://www.youtube.com/watch?v=12l_jtL7yK4
+https://www.youtube.com/watch?v=2uPrRYhwoAQ
+https://www.youtube.com/watch?v=pNi0kKBoxfc
+
+Ejercicios Aplicación Ley de Ampere
+https://www.youtube.com/watch?v=x_BXiZBYvy8
+https://www.youtube.com/watch?v=sAIR17Nhy9s
+https://www.youtube.com/watch?v=x4qfzFH3w58
+
+Influencia e Importancia del Campo Magnético
+https://www.youtube.com/watch?v=umYTIkrv7dI
+https://www.youtube.com/watch?v=PHkp655MMT0
+https://www.youtube.com/watch?v=AtyFS_GjCtw
+
+Lección 1: Flujo Magnético - Ley de Lenz - Ley de Faraday
+https://drive.google.com/file/d/1u2nEwlAGFkwl-kyyzIFpsEB1CW76SgsM/view?usp=sharing
+
+Flujo Magnético - Ejercicios Resueltos.
+https://www.youtube.com/watch?v=usn61Wg2M08
+https://www.youtube.com/watch?v=n46Bv4W3iyY
+
+Vídeo: Ley de Faraday
+https://drive.google.com/file/d/1oHokVX3sbKRl7C0Q0zs2pZtsQ4QgM8kt/view?usp=sharing
+
+Ley de Faraday - Ley de Lenz
+https://www.youtube.com/watch?v=NVAcTSFbxog
+https://www.youtube.com/watch?v=VKJSGvPjxBA
+
+Ejercicios Resueltos de Ley de Faraday
+https://www.youtube.com/watch?v=B69sq2IOi0U
+https://www.youtube.com/watch?v=DfJCQZOyR4w
+https://www.youtube.com/watch?v=LO0lb8C2s8U
+https://www.youtube.com/watch?v=TBHJiICyVAg
+
+Aplicaciones de la inducción electromagnética ¿Sabes lo que es la Inducción electromagnetica?
+https://www.youtube.com/watch?v=wGkpCUDuGOU
+https://www.youtube.com/watch?v=OlTDyL6ZPOY
+https://www.youtube.com/watch?v=QjKy_myFHx4
+
+- Parcial IV
+
+CIRCUITOS DE CORRIENTE ALTERNA AC - CIRCUITO RC - RL - RLC EN SERIE DE A.C.
+Lección 1: Inductancia - Circuitos RC, RL, RLC en serie de Corriente Alterna AC
+https://drive.google.com/file/d/1CBc8Mk7HvgDI6dAZ4qmgVcYzcNQ9q_Cg/view
+
+Vídeo: Inductancia - Circuitos RC-RL-RLC en serie de corriente alterna A.C.
+https://drive.google.com/file/d/1taWMSqlGLJXxLhS-KX-nAeq48hRvIMq2/view?usp=sharing
+
+Parámetros de la Corriente Alterna A.C.-Ejercicios Circuitos Corriente Alterna A.C.
+https://www.youtube.com/watch?v=D_jpDtm8gV8
+https://www.youtube.com/watch?v=JqsH5ymWxR0
+https://www.youtube.com/watch?v=eZmg0hqM5Sg
+https://www.youtube.com/watch?v=yYo9yCzJXfc
+https://www.youtube.com/watch?v=B6CFWcKu9NU
+
+Circuito RLC en Serie corriente alterna A.C.
+https://www.youtube.com/watch?v=MLeDioK7Bko
+https://www.youtube.com/watch?v=Oc912ZceLCo
+
+TEMA XIV: ONDAS ELECTROMAGNÉTICAS - ECUACIONES DE MAXWELL
+Lección 2: Ondas Electromagnéticas - Ecuaciones de Maxwell
+https://drive.google.com/file/d/1fngeB1MWIHqouYXXEbVwYv2fnK6_Qbf-/view?usp=sharing
+
+Vídeo: Ondas Electromagnéticas.
+https://drive.google.com/file/d/1taWMSqlGLJXxLhS-KX-nAeq48hRvIMq2/view?usp=sharing
+
+Ejercicios Resueltos de Ondas Electromagnéticas
+https://www.youtube.com/watch?v=ZsriBY0Vwcs
+https://www.youtube.com/watch?v=GovwPT-gtos
+
+Las Ecuaciones de Maxwell en 5 minutos
+https://www.youtube.com/watch?v=kx20kG6m-JA

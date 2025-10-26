@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SPSSComplexSamples version="1.0">
+	<Header copyright="Copyright (c) IBM Corp., 2012. All Rights Reserved."/>
+	<SampleDesign numberOfStages="1" wrEstimation="no">
+		<SampleStage selectionMethod="simple_systematic" stageNumber="1">
+			<ClusterVarList numberOfVariables="1">
+				<Variable name="Número"/>
+			</ClusterVarList>
+			<InputSampleSize>
+				<SingleValue value="30"/>
+			</InputSampleSize>
+			<IncProb>
+				<Variable name="InclusionProbability_1_"/>
+			</IncProb>
+			<CumulativeWeight>
+				<Variable name="SampleWeightCumulative_1_"/>
+			</CumulativeWeight>
+		</SampleStage>
+		<Weight>
+			<Variable name="SampleWeight_Final_"/>
+		</Weight>
+	</SampleDesign>
+	<AnalysisDesign SRSestimator="wor" numberOfStages="1">
+		<AnalysisStage estimationMethod="wr" stageNumber="1">
+			<ClusterVarList numberOfVariables="1">
+				<Variable name="Número"/>
+			</ClusterVarList>
+		</AnalysisStage>
+		<Weight>
+			<Variable name="SampleWeight_Final_"/>
+		</Weight>
+	</AnalysisDesign>
+</SPSSComplexSamples>

@@ -1,0 +1,21 @@
+Material: https://drive.google.com/drive/folders/11uEBxVdGkmYIHkfgmel1jmcQwc8AZuRg?usp=sharing
+
+Sistema de ecuaciones lineales y Método de Eliminación Gaussiana
+https://www.youtube.com/watch?v=vCvv2xGW2zg
+Método de eliminación de Gauss Jordan
+https://www.youtube.com/watch?v=CQZnOR9gOFU
+Espacios Vectoriales
+https://www.youtube.com/watch?v=7YmfcMeptlE
+Subespacios Vectoriales
+https://www.youtube.com/watch?v=OYvbEy76o-A
+Conjunto generador
+https://www.youtube.com/watch?v=Fp9Tyz5Tq7k
+Dependencia Lineal
+https://www.youtube.com/watch?v=9RLxULaMUDI
+Base de un Espacio Vectorial
+https://www.youtube.com/watch?v=M3MK-3ZB6Cs
+
+Tutorial 1
+Parte 1: https://youtu.be/GtubBNfR5h0
+Parte 2: https://youtu.be/BBCw2mrZTqc
+Parte 3: https://youtu.be/PcwFWJeI1vU

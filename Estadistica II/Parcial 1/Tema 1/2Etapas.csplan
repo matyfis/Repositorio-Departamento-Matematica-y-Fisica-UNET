@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SPSSComplexSamples version="1.0">
+	<Header copyright="Copyright (c) IBM Corp., 2012. All Rights Reserved."/>
+	<SampleDesign numberOfStages="2" wrEstimation="no">
+		<SampleStage selectionMethod="simple_wor" stageNumber="1">
+			<ClusterVarList numberOfVariables="1">
+				<Variable name="Facultad"/>
+			</ClusterVarList>
+			<InputSampleSize>
+				<SingleValue value="2"/>
+			</InputSampleSize>
+			<IncProb>
+				<Variable name="InclusionProbability_1_"/>
+			</IncProb>
+			<CumulativeWeight>
+				<Variable name="SampleWeightCumulative_1_"/>
+			</CumulativeWeight>
+		</SampleStage>
+		<SampleStage selectionMethod="simple_wor" stageNumber="2">
+			<StrataVarList numberOfVariables="1">
+				<Variable name="ClaseSocial"/>
+			</StrataVarList>
+			<InputSampleSize>
+				<SingleValue value="5"/>
+			</InputSampleSize>
+			<IncProb>
+				<Variable name="InclusionProbability_2_"/>
+			</IncProb>
+			<CumulativeWeight>
+				<Variable name="SampleWeightCumulative_2_"/>
+			</CumulativeWeight>
+		</SampleStage>
+		<Weight>
+			<Variable name="SampleWeight_Final_"/>
+		</Weight>
+	</SampleDesign>
+	<AnalysisDesign SRSestimator="wor" numberOfStages="2">
+		<AnalysisStage estimationMethod="equal_wor" stageNumber="1">
+			<ClusterVarList numberOfVariables="1">
+				<Variable name="Facultad"/>
+			</ClusterVarList>
+			<IncProb>
+				<Variable name="InclusionProbability_1_"/>
+			</IncProb>
+		</AnalysisStage>
+		<AnalysisStage estimationMethod="equal_wor" stageNumber="2">
+			<StrataVarList numberOfVariables="1">
+				<Variable name="ClaseSocial"/>
+			</StrataVarList>
+			<IncProb>
+				<Variable name="InclusionProbability_2_"/>
+			</IncProb>
+		</AnalysisStage>
+		<Weight>
+			<Variable name="SampleWeight_Final_"/>
+		</Weight>
+	</AnalysisDesign>
+</SPSSComplexSamples>

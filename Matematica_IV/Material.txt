@@ -1,0 +1,194 @@
+Presentación del Curso: https://drive.google.com/file/d/1FouZ15kGHEDdcpXitpcDw0oObYQLfIR5/view?usp=share_link
+Programa de la Asignatura: https://drive.google.com/file/d/1XT2L3cwWTWJsCJlSgRlDNqWfEe1-cbnY/view?usp=sharing
+
+- Unidad 1
+Semana 1
+Guía: https://drive.google.com/file/d/1uVyVDlITY3aR2tQ3k_0Ig0mYvmLQGhLB/view?usp=sharing
+Campos vectoriales y escalares: https://youtu.be/Po4DawDMouI
+Campo conservativo: https://youtu.be/enGnabbYmBE
+Función potencia: https://youtu.be/SM-eEc3QMAw
+Gradiente, Divergencia y Rotacional: https://youtu.be/A5HhXty0x6U
+Video Resumen Primera Semana: https://www.canva.com/design/DAF_WQdTZq4/dHHOVQm03F2StusCIYMY0Q/view?utm_content=DAF_WQdTZq4&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
+Semana 2
+Guía: https://drive.google.com/file/d/1VIh_LnJiCN4GLhWYzq7SY-AHTqNfIJ_E/view?usp=sharing
+Parametrización de curvas: https://youtu.be/Hjgrz60C57Y
+Integral de línea (campos escalares): https://youtu.be/V8HGzJtBaXY
+Integral de línea (campos vectoriales): https://youtu.be/LtmxMyHo0uc
+Integral de Línea (Trabajo): https://youtu.be/5MH7op7EFXw
+Teorema Fundamental de las Integrales de línea
+- https://youtu.be/AOkCkjP0nWI
+- https://youtu.be/4qdW6sqTbyA
+
+Semana 3
+Guía: https://drive.google.com/file/d/1U_KWmErySFeRydN2VVZCRmqN7BvI5CKr/view?usp=sharing
+Ejemplo 1: Evaluación de integral de línea, si C es una circunferencia centrada en el origen:
+https://youtu.be/PZFP148vK04
+Ejemplo 2: Cálculo del Trabajo realizado al mover una partícula en un campo vectorial
+https://youtu.be/Jc7detldRjA
+Ejemplo 3: Evaluación de integral de línea, si C es la curva de intersección entre dos regiones
+https://youtu.be/VZK9Ra_yKZk
+Tarea: Teorema de Green: https://campuvirtual.com/pluginfile.php/154751/mod_assign/introattachment/0/ACTIVIDADSEMANA3_CORRECCIONSIGNO.pdf?forcedownload=1
+Rubrica: https://drive.google.com/file/d/1sqpZd_boa3bOytRUjosmyseFTj-Qsv5j/view?usp=sharing
+Resumen Semana 3: https://drive.google.com/file/d/1DHtdD0qbQCim5NlPIDNDH3vsS7Yj1RqI/view
+
+Semana 4
+Guía: https://drive.google.com/file/d/1Q1i5Vn0wPT_pLxOwHT4irvPlZ_l1wZE5/view?usp=sharing
+Ejemplo 1: Repaso de superficies
+https://youtu.be/CU0NAZY-Lgs
+Ejemplo 2: Cálculo de un área de superficie:
+https://youtu.be/GYNihVLlggA
+Ejemplo 3: Evaluación de una integral de superficie de un campo vectorial
+https://youtu.be/Ca-daVYT8M0
+Ejemplo 4: Cálculo de una integral de flujo de F a través de una superficie S
+https://youtu.be/ES5nRjpH04w
+
+MATLAB
+https://www.youtube.com/watch?v=Wgk_FdfpJqg
+https://www.youtube.com/watch?v=PoR2vvpqI5E
+https://www.youtube.com/watch?v=01wKlE3IZUM
+https://www.youtube.com/watch?v=GJgCwlIKA64
+Curvas y Superficies: https://drive.google.com/file/d/1Pqf0m_yQljGAE8Zgob9Cw6l3zaTOWX1O/view
+
+Resumen: https://www.canva.com/design/DAGCrwVjG3w/FxxtMfEWp7l22r1qZLukBA/watch?utm_content=DAGCrwVjG3w&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Instrucciones Tarea Semana 4: https://campuvirtual.com/pluginfile.php/263192/mod_assign/introattachment/0/Instrucciones_Tarea_Semana4.pdf?forcedownload=1
+Indicadores de Evaluación Actividad de Aprendizaje 4: https://drive.google.com/file/d/1yrUY9AD9npBRW6M-FNaH0ydloEmKoLr2/view?usp=sharing
+
+Semana 5
+Guía: https://drive.google.com/file/u/1/d/10j1LgNHEH4JpeDYgdUmP_IQ1qzPDMozX/view?usp=sharing
+Teorema de la Divergencia, ejemplo 1 del cálculo de flujo de un campo vectorial:
+https://www.youtube.com/watch?v=MjLnVGSzRpM
+Teorema de la Divergencia, ejemplo 2 del cálculo de flujo de un campo vectorial:
+https://www.youtube.com/watch?v=l4Q2yGSbsd0
+Teorema de Stokes, definición y ejemplos:
+https://www.youtube.com/watch?v=Cp3CFXPXbME
+Teorema de Stokes con coordenadas polares:
+https://www.youtube.com/watch?v=BrqsA7x_UK0
+Resumen: https://www.canva.com/design/DAGDhv32pGw/0rjusa_UdFsbRNih02wASQ/view?utm_content=DAGDhv32pGw&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
+- Unidad 2
+
+Semana 1
+https://drive.google.com/file/d/15ga_R-exTm8aEwYfili2fPOIp45V9vmt/view?usp=sharing
+Curso Completo de Variable Compleja
+https://youtube.com/playlist?list=PL9SnRnlzoyX1EyKrhu12qtHyxrvAkLHHR
+Números complejos en Matlab
+https://www.youtube.com/watch?v=g_O_ZK-rpjw
+Actividad Matlab Variable Compleja
+https://campuvirtual.com/pluginfile.php/176952/mod_assign/introattachment/0/Instrucciones_Tarea_Semana6.pdf?forcedownload=1
+Indicadores de Evaluación Actividad 6: Tarea
+https://drive.google.com/file/d/1Ky_-2dR5OZuQg_hsqrsoAN8x_HpzXcgc/view?usp=sharing
+Resumen:
+Parte 1: https://drive.google.com/file/d/1olHRqTBCTiR1MWpmIZSRRaCzWy07ln3E/view?usp=sharing
+Parte 2: https://drive.google.com/file/d/1C83GfE51gDnOVEw_kHFtJgqoqPpMmC4S/view?usp=sharing
+
+Semana 2
+https://drive.google.com/file/d/1XwFAOy5TtCKuJMK3efgmAI3tHaN9v-Av/view
+Videos:
+https://www.youtube.com/watch?v=v2a8ZFmpjnc
+https://www.youtube.com/watch?v=KhS52rwd1hA
+https://www.youtube.com/watch?v=dOBOTFBWd4c
+https://www.youtube.com/watch?v=qKCIoX1HMLY
+https://www.youtube.com/watch?v=eN7NXaeVlMk
+
+Semana 3
+https://drive.google.com/file/d/1nwRElmzXbYrqD3lBd_Bqa8ICkJk2UkRv/view?usp=sharing
+
+Videos
+Ejemplo 1: Cálculo de Integral de Variable Compleja en un segmento
+https://www.youtube.com/watch?v=dsKgFyTeJ-s
+Ejemplo 2: Cálculo de una integral de variable compleja alrededor de dos trayectorias
+https://www.youtube.com/watch?v=BHaeHhlufFM
+Ejemplo 3: Teorema Integral de Cauchy
+https://www.youtube.com/watch?v=A-MflUm97Mw
+Ejemplo 4: Teorema Integral de Cauchy
+https://www.youtube.com/watch?v=Y-cKkg0bbnk
+
+Rubrica Foro de Debate S8
+https://drive.google.com/file/d/12JC8_R0yGWK2zuMbEbhRjt4rNnnX0cZS/view
+
+- Unidad 3
+
+Semana 1
+Guía: https://drive.google.com/file/d/1XZ2_RCZz-z1DbL9rYKHDIV9SQXR6T0mY/view
+
+Videos
+Ecuaciones Diferenciales de Primer Orden (Introducción)
+https://www.youtube.com/watch?v=rd2jKGQJucE
+Ejemplo 1: Ecuaciones Diferenciales de Variables Separables
+https://www.youtube.com/watch?v=jA8nVFz94eY
+Ejemplo 2: EDO de variables separables
+https://www.youtube.com/watch?v=7XB7vRL_MZ8
+Ejemplo 3: EDO de variables separables
+https://www.youtube.com/watch?v=H1Jjq1izpCA
+
+Tarea Unidad 3
+https://campuvirtual.com/pluginfile.php/176953/mod_assign/introattachment/0/Actividad_Tema_9_2024_1.pdf?forcedownload=1
+Indicadores de Evaluación Actividad Tema 9
+https://drive.google.com/file/d/1_fOVZaTelENdMSptkznnAgdil7yQIdMt/view
+
+Resumen:
+https://www.canva.com/design/DAGGK-iKRRw/RrpGFJrnvrXmP1npwKKFYg/view?utm_content=DAGGK-iKRRw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
+Semana 2
+Guia: https://drive.google.com/file/d/1XZ2_RCZz-z1DbL9rYKHDIV9SQXR6T0mY/view
+
+Videos:
+https://www.youtube.com/watch?v=JnX0aAyPNSY
+https://www.youtube.com/watch?v=nAxgW02hsNw
+https://www.youtube.com/watch?v=FymfwZCNFys
+https://www.youtube.com/watch?v=_5qW3qAIYRo
+https://www.youtube.com/watch?v=sNtceYyT-To
+https://www.youtube.com/watch?v=9QvP6xlGH4Y
+https://www.youtube.com/watch?v=o2Vicj-kRVA
+
+Resumen:
+https://drive.google.com/file/d/1BGTnNTDzBYMTG3doLSb-uY4Zk9IXT7Fu/view
+Ejercicios Tema 10
+
+Semana 3
+Guia: https://drive.google.com/file/d/1N3qAZUAKbIeB88gAWUQaXqWBq-FeKkhN/view
+
+Extras:
+https://edem.eu/ecuaciones-diferenciales-la-herramienta-que-todo-ingeniero-debe-poseer/
+https://www.youtube.com/watch?list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe&v=hPPgDoOLhWg
+
+- Unidad 4
+Semana 1
+Guia: https://drive.google.com/file/d/1TpJDWYw1M89QkXiC6ehQM1SfXZGucnQ-/view?usp=sharing
+
+Videos:
+Ecuaciones Diferenciales de Segundo Orden
+https://www.youtube.com/watch?v=nL0uOVDXI74
+Wronskiano ¿Qué es?
+https://www.youtube.com/watch?v=OD7olnR0EkE
+Ejemplo 1: EDO de coeficientes constantes
+https://www.youtube.com/watch?v=cPV8pU8e2C8
+Ejemplo 2: EDO de segundo orden (PVI)
+https://www.youtube.com/watch?v=pHnKryddTwc
+Ejemplo 3: EDO de coeficientes constantes con raíces complejas
+https://www.youtube.com/watch?v=IWzy0eBTXOc
+
+Tarea:
+https://campuvirtual.com/pluginfile.php/176954/mod_assign/introattachment/0/Tarea_Semana12.pdf?forcedownload=1
+Indicadores:
+https://drive.google.com/file/d/1PaIVvNja43pte8melLJBjQpKXMfVPLAk/view?usp=sharing
+
+Semana 2
+Guía: https://drive.google.com/file/d/1jSg1NdbDXxc_1NE2jpFD46UUmmGpN6H_/view
+
+Videos:
+Ejemplo 1: Método de Coeficientes Indeterminados
+https://www.youtube.com/watch?v=kPNsFlg--TM
+Ejemplo 2: Método de Coeficientes Indeterminados
+https://www.youtube.com/watch?v=q4APozO_iy4
+Ejemplo 3: Método de Variación de Parámetros
+https://www.youtube.com/watch?v=BuRMQfJDkcI
+Ejemplo 4: Método de Variación de Parámetros
+https://www.youtube.com/watch?v=mf1wwkxK4Ag
+Ejemplo 5: Método de Variación de Parámetros
+https://www.youtube.com/watch?v=T53Z3JxjXws
+Ejemplo 6: Transformada de Laplace
+https://www.youtube.com/watch?v=D6DPAlbkYT8
+Ejemplo 7: Transformada de Laplace
+https://www.youtube.com/watch?v=2XWhDhruGO0

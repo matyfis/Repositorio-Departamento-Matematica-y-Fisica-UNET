@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SPSSComplexSamples version="1.0">
+	<Header copyright="Copyright (c) IBM Corp., 2012. All Rights Reserved."/>
+	<SampleDesign numberOfStages="1" wrEstimation="no">
+		<SampleStage selectionMethod="simple_wor" stageNumber="1">
+			<StrataVarList numberOfVariables="1">
+				<Variable name="Facultad"/>
+			</StrataVarList>
+			<InputSampleSize>
+				<Matrix numberOfValues="4">
+					<MatrixVarList numberOfVariables="1">
+						<Variable name="Facultad"/>
+					</MatrixVarList>
+					<MatrixValue sizeValue="15">
+						<Category value="1"/>
+					</MatrixValue>
+					<MatrixValue sizeValue="20">
+						<Category value="2"/>
+					</MatrixValue>
+					<MatrixValue sizeValue="40">
+						<Category value="3"/>
+					</MatrixValue>
+					<MatrixValue sizeValue="32">
+						<Category value="4"/>
+					</MatrixValue>
+				</Matrix>
+			</InputSampleSize>
+			<IncProb>
+				<Variable name="InclusionProbability_1_"/>
+			</IncProb>
+			<CumulativeWeight>
+				<Variable name="SampleWeightCumulative_1_"/>
+			</CumulativeWeight>
+		</SampleStage>
+		<Weight>
+			<Variable name="SampleWeight_Final_"/>
+		</Weight>
+	</SampleDesign>
+	<AnalysisDesign SRSestimator="wor" numberOfStages="1">
+		<AnalysisStage estimationMethod="equal_wor" stageNumber="1">
+			<StrataVarList numberOfVariables="1">
+				<Variable name="Facultad"/>
+			</StrataVarList>
+			<IncProb>
+				<Variable name="InclusionProbability_1_"/>
+			</IncProb>
+		</AnalysisStage>
+		<Weight>
+			<Variable name="SampleWeight_Final_"/>
+		</Weight>
+	</AnalysisDesign>
+</SPSSComplexSamples>
