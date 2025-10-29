@@ -10,10 +10,11 @@ Proveer acceso centralizado y estructurado a materiales de apoyo académico para
 
 El repositorio está organizado en carpetas por asignatura. A continuación se describen las carpetas principales que encontrarás en la raíz:
 
-- `Estadística - 0834402T/` — Recursos generales de estadística.
 - `Estadística I - 0834405T/` — Material de Estadística I; incluye subcarpetas por tema (Descriptiva, Probabilidad, Distribuciones) y un `Material.md` con notas.
 - `Estadística II - 0834501T/` — Material de Estadística II, con recursos divididos por parciales y temas.
 - `Estadística y Probabilidad - 0834403T/` — Carpeta con el libro o material central de la materia.
+ - `Estadística Aplicada I - 0834104T/` — Material y recursos sobre aplicaciones de la estadística en contextos prácticos (apuntes, ejercicios y tablas).
+ - `Estadística Aplicada II - 0834208T/` — Continuación de Estadística Aplicada; incluye presentaciones, fórmulas y tablas (por ejemplo presentaciones `.ppsx`).
 - `Fisica I - 0846203T/` — Recursos del curso de Física I, organizados por parciales y temas (movimiento, leyes de Newton, energía, rotación, etc.).
 - `Fisica II - 0846302T/` — Material de Física II, con parciales y temas estructurados.
 - `Laboratorio de Fisica I - 0842204L/` — Recursos de laboratorio para Física I.
@@ -24,6 +25,7 @@ El repositorio está organizado en carpetas por asignatura. A continuación se d
 - `Matemática IV - 0826401T/` — Materiales y unidades organizadas por temas.
 - `Matematicas I - 0826101T/` — Contenido básico: funciones, límites, derivadas y aplicaciones.
 - `Métodos Numéricos - 0834503T/` — Material de métodos numéricos, planificación y recursos (incluye notas sobre Matlab).
+ - `Psicometría - 0834305T/` — Recursos y notas sobre psicometría, transformaciones y baremación (archivos de texto y guías prácticas).
 
 Cada carpeta puede contener subcarpetas como `Parcial 1/`, `Tema 1/`, `Libro/`, `Material.md` y archivos variados (PDFs, imágenes, slides, etc.).
 
